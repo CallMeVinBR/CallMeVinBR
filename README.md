@@ -7,4 +7,7 @@ Back-end:
 Front-end:
 - CSS;
 - BootStrap;
-- JavaScript.
+- JavaScript;
+
+Additional technologies:
+- Power BI + SQL Databases.
