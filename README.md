@@ -1,4 +1,5 @@
-Web Developer, Systems Analysis and Development student.
+From Brazil.
+Systems Analysis and Development student.
 - PHP;
 - SQL;
 - HTML/CSS/JS;
