@@ -1,13 +1,6 @@
 Web Developer, Systems Analysis and Development student.
-Back-end:
 - PHP;
-- SQL (MariaDB, MySQL);
-- Python;
+- SQL;
+- HTML/CSS/JS;
 
-Front-end:
-- CSS;
-- BootStrap;
-- JavaScript;
-
-Additional technologies:
-- Power BI + SQL Databases.
+Currently studying Java and JavaScript for back-end.
