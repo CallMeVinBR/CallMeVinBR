@@ -1,7 +1,7 @@
 # Vinicius Fonseca
 
 👋 Greetings! 
-My name is Vinicius and I'm studying Systems Analysis and Development. Since childhood, I'm passionate for technologies and it was in my technical course in Informatic that I introduced myself to the development area.
+My name is Vinicius, I'm from Brazil and I'm studying Systems Analysis and Development. Since childhood, I'm passionate for technologies and it was in my technical course in Informatic that I introduced myself to the development area.
 
 At the moment, I'm dedicating my studies for Java and MongoDB.
 
