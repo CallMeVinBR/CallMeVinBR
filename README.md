@@ -28,7 +28,3 @@ At the moment, I'm dedicating my studies for Java and MongoDB.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=callmevinbr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=callmevinbr&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-### My Projects
-
-[![Gerador de pessoas ficticias Python / Fictional people generator Python](https://github-readme-stats.vercel.app/api/pin/?username=callmevinbr&repo=gen-python-sql&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CallMeVinBR/gen-python-sql)
