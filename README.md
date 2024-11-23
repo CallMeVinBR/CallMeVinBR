@@ -1,6 +1,6 @@
 # Vinicius Fonseca
 
-👋 Greetings! 
+🤝 Greetings! 
 My name is Vinicius, I'm from Brazil and I'm studying Systems Analysis and Development. Since childhood, I'm passionate for technology and it was in my technical highschool course in Informatic that I introduced myself to the coding and development area.
 
 At the moment, I'm dedicating my studies for Python, Flask and MongoDB. I'm currently developing an online bulletin website, called GradeSphere. Once it is done by the start of December, I'll leave its link and repository on my profile!
