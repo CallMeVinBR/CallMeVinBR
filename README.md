@@ -3,7 +3,7 @@
 🤝 Greetings! 
 My name is Vinicius, I'm from Brazil and I'm studying Systems Analysis and Development. Since childhood, I'm passionate for technology and it was in my technical highschool course in Informatic that I introduced myself to the coding and development area.
 
-At the moment, I'm dedicating my studies for Python, Flask and MongoDB. I'm currently developing an online bulletin website, called GradeSphere. Once it is done by the start of December, I'll leave its link and repository on my profile!
+At the moment, I'm dedicating my studies for Python and OpenCV (facial recognition).
 
 ### Socials
 
@@ -22,6 +22,7 @@ At the moment, I'm dedicating my studies for Python, Flask and MongoDB. I'm curr
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 
 
 ### GitHub Stats
