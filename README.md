@@ -1,4 +1,4 @@
-# Vinicius Fonseca
+# About me
 
 🤝 Greetings! 
 My name is Vinicius, I'm from Brazil and I'm studying Systems Analysis and Development. Since childhood, I'm passionate for technology and it was in my technical highschool course in Informatic that I introduced myself to the coding and development area.
