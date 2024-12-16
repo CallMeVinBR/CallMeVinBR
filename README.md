@@ -1,4 +1,4 @@
-# 🧑🏻‍🎓 About me
+# 👨‍🎓 About me
 
 🤝 Greetings! 
 My name is Vinicius, I'm from Brazil and I'm studying Systems Analysis and Development. Since childhood, I'm passionate for technology and it was in my technical highschool course in Informatic that I introduced myself to the coding and development area.
@@ -11,7 +11,7 @@ At the moment, I'm dedicating my studies for Python, OpenCV (facial recognition)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:viniciusfonsecaoliv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vinicius-fonseca-123a98188/)
 
-### 🧑🏻‍💻 Familiarities
+### 👨‍💻 Familiarities
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
