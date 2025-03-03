@@ -4,7 +4,7 @@
 My name is Vinicius, I'm from Brazil and I'm studying Systems Analysis and Development. Since childhood, I'm passionate for technology and it was in my technical highschool course in Informatic that I introduced myself to the coding and development area.
 
 ## 🧠 What I am currently studying for
-At the moment, I'm dedicating my studies for Python, OpenCV (facial recognition), Machine Learning and Computer Vision (thanks to BairesDev, collaborating with Digital Innovation One)!
+At the moment, I'm dedicating my studies for Python, OpenCV (facial recognition), Machine Learning and Computer Vision!
 
 ### 👤 Socials
 
