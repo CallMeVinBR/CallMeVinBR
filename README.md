@@ -4,7 +4,9 @@
 My name is Vinicius, I'm from Brazil and I'm studying Systems Analysis and Development. Since childhood, I'm passionate for technology and it was in my technical highschool course in Informatic that I introduced myself to the coding and development area.
 
 ## 🧠 What I am currently studying for
-At the moment, I'm dedicating my studies for Python, OpenCV (facial recognition), Machine Learning and Computer Vision!
+- Clean code development in Java (external courses & curiosity);
+- Better UI development in Java, using Swing;
+- EXTRA: I recently bought the book Clean Code, by Robert C. Martin, and it is amazing.
 
 ### 👤 Socials
 
