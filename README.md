@@ -4,7 +4,7 @@
 My name is Vinicius, I'm from Brazil and I'm studying Systems Analysis and Development. Since childhood, I'm passionate for technology and it was in my technical highschool course in Informatic that I introduced myself to the coding and development area.
 
 ## 🧠 What I am currently studying for
-- Clean code development in Java (external courses & curiosity);
+- Clean code development in general, mainly in Java (external courses & curiosity);
 - Better UI development in Java, using Swing;
 - EXTRA: I recently bought the book [Clean Code (Robert C. Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), and it is amazing.
 
