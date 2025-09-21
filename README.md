@@ -3,6 +3,9 @@
 🤝 Greetings! 
 My name is Vinicius, I'm from Brazil and I'm graduated in Systems Analysis and Development. Since childhood, I'm passionate for technology and it was in my technical highschool course in Informatic that I introduced myself to the coding and development area.
 
+# What you'll find here
+My Github is my main storage for random snippets, ongoing projects or functional projects, interesting code snippets and my personal portfolio (as it should be for many users and developers in this platform). You should expect bad code and also good code, that's because i'm still learning and making my way through coding, slowly but steadily becoming good at it. I hope you have a great time in here!
+
 ## 🧠 What I am currently studying for
 - Currently building a front-end website for a personal client using Bootstrap
 - Clean code development in general, mainly in Java (external courses & curiosity)
