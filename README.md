@@ -7,7 +7,7 @@ My name is Vinicius, I'm from Brazil and I'm graduated in Systems Analysis and D
 - Currently building a front-end website for a personal client using Bootstrap
 - Clean code development in general, mainly in Java (external courses & curiosity)
 - Mobile development using Flutter and Dart
-- Software Engineering Bachelor at Uninter
+- Software Engineering (Bachelor Degree) at Uninter
 
 ### 👤 Socials
 
