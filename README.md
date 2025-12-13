@@ -31,6 +31,8 @@ My Github is my main storage for random snippets, ongoing projects or functional
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,php,js,java,python,c,sql,flask)](https://skillicons.dev)
+
 
 ### 📊 GitHub Stats
 
