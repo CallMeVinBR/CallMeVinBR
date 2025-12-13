@@ -12,9 +12,8 @@ My Github is my main storage for random snippets, ongoing projects or functional
 - Mobile development using Flutter and Dart
 - Software Engineering (Bachelor Degree) at Uninter
 
-### 👤 Socials
+### 👤 LinkedIn
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:viniciusfonsecaoliv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vinicius-fonseca-123a98188/)
 
 ### 👨‍💻 My Skills
