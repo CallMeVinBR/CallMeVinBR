@@ -8,7 +8,7 @@ My Github is my main storage for random snippets, ongoing projects or functional
 
 ## 🧠 What I am currently studying for
 - Currently building a front-end website for a personal client using Bootstrap
-- Clean code development in general, mainly in Java (external courses & curiosity)
+- Clean code development in general (external courses & curiosity)
 - Mobile development using Flutter and Dart
 - Software Engineering (Bachelor Degree) at Uninter
 
