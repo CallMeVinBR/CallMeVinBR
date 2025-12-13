@@ -19,7 +19,7 @@ My Github is my main storage for random snippets, ongoing projects or functional
 
 ### 👨‍💻 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,php,js,java,python,c,mysql,flask,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,git,php,js,java,python,c,mysql,flask,spring)](https://skillicons.dev)
 
 
 ### 📊 GitHub Stats
