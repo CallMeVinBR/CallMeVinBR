@@ -23,4 +23,4 @@ My Github is my main storage for random snippets, ongoing projects or functional
 
 ### 📊 GitHub Stats
 
-[![CallMeVinBR's Github Stats](https://github-readme-stats.vercel.app/api?username=CallMeVinBR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![CallMeVinBR's Github Stats](https://github-readme-stats.vercel.app/api?username=CallMeVinBR)](https://github.com/anuraghazra/github-readme-stats)
