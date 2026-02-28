@@ -19,8 +19,3 @@ My Github is my main storage for random snippets, ongoing projects or functional
 ### 👨‍💻 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,git,php,js,java,python,c,mysql,flask,spring)](https://skillicons.dev)
-
-
-### 📊 GitHub Stats
-
-[![CallMeVinBR's Github Stats](https://github-readme-stats.vercel.app/api?username=callmevinbr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
