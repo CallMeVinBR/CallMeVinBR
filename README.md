@@ -10,7 +10,7 @@
 
 ###
 
-## 🧠 What I am currently studying for
+## 🧠 What I Am Currently Studying For
 - Currently maintaining a front-end website for a personal Brazilian client using Bootstrap ([check it out here](https://gallicoemouraadv.com))
 - Clean code development in general (book by Uncle Bob)
 - Mobile development using Flutter and Dart
