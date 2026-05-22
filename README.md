@@ -12,10 +12,11 @@
 
 ## 🧠 What I Am Currently Studying For
 - Currently maintaining a front-end website for a personal Brazilian client using Bootstrap ([check it out here](https://gallicoemouraadv.com))
+- On my way to publish my 2nd website, also crafting my personal portfolio inspired by Persona 5 Royal's UI
 - Clean code development in general (book by Uncle Bob)
 - Mobile development using Flutter and Dart
-- Polishing my ReactJS practices
-- Software Engineering (Bachelor Degree) at Uninter
+- Polishing my React and Typescript skills
+- Pursuing Bachelor Degree in Software Engineering, at Uninter
 
 <h2 align="left">I Craft Solutions With</h2>
 
