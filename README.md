@@ -18,7 +18,7 @@
 - Polishing my React and Typescript skills
 - Pursuing Bachelor Degree in Software Engineering, at Uninter
 
-<h2 align="left">I Craft Solutions With</h2>
+<h2 align="left">I Can Code With</h2>
 
 ###
 
