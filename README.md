@@ -2,6 +2,8 @@
 
 ###
 
+![](https://komarev.com/ghpvc/?username=CallMeVinBR&color=blue&style=for-the-badge&label=View+count)
+
 <h2 align="left">What You'll Find Here</h2>
 
 ###
